@@ -1,0 +1,16 @@
+# Node modules and build artifacts
+notes-react/node_modules/
+notes-react/build/
+
+# Python environment directory
+notesenv/
+
+# Miscellaneous
+*.log
+*.pyc
+__pycache__/notes-react/node_modules/
+notes-react/build/
+notesenv/
+*.log
+*.pyc
+__pycache__/
